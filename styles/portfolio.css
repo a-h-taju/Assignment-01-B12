@@ -1,0 +1,16 @@
+.logo-style{
+color: blue;
+font-size: large;
+}
+
+.button-color{
+background-color: #4E47FF;
+font-weight: #FFFFFF;
+
+}
+
+.ul-flex{
+  display: flex; 
+  justify-content: space-between; 
+  margin: 50px 150px;
+}
