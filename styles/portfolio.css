@@ -40,6 +40,7 @@ margin: 20px;
   display: flex;
   justify-content: space-between;
   margin: 116px 160px 0px 140px;
+  text-align: center;
 }
 
 .bdr-radius{
@@ -47,5 +48,33 @@ margin: 20px;
 }
 
 .txt-color{
-  color: rgba(6, 6, 32, 0.397);
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.part-3{
+  background-color: rgba(78, 71, 255, 0.1);
+  margin: 0px 159px 0px 141px;
+  border-radius: 15px;
+  padding: 50px 142px;
+}
+
+.part-30{
+  text-align: center;
+}
+
+.part-31{
+display: flex;
+justify-content: space-around;
+}
+
+.bdr-gap{
+  gap: 120px;
+}
+
+.txt-31{
+  color: rgb(30, 7, 235);
+}
+
+.para-color3{
+  color: rgba(0, 0, 0, 0.5);
 }
