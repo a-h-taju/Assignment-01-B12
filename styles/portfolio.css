@@ -1,3 +1,4 @@
+
 .header-1{
   display: flex;
   justify-content: space-between;
@@ -77,4 +78,36 @@ justify-content: space-around;
 
 .para-color3{
   color: rgba(0, 0, 0, 0.5);
+}
+
+.inner-flex{
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.txt-align{
+  text-align: center;
+}
+
+.color-Date{
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.str-flex{
+  display: flex;
+  justify-content: space-around;
+}
+
+.box{
+  background-color: rgba(242, 237, 237, 1);
+  padding: 24px 24px 24px 24px;
+}
+
+.bredius{
+  border-radius: 10px;
+}
+
+.bordergap{
+  margin: 0px 149px 0px 151px;
 }
