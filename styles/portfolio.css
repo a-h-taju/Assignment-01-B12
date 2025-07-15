@@ -20,7 +20,13 @@
 
 .header-2{
   text-align: center;
-  
+}
+.btn-margin-1{
+margin: 20px;
+}
+
+.btn-margin-2{
+  margin-bottom: 152px;
 }
 
 .open-sans-normal {
@@ -28,4 +34,18 @@
   font-optical-sizing: auto;
   font-style: normal;
   font-variation-settings:"wdth" 100;
+}
+
+.part-2{
+  display: flex;
+  justify-content: space-between;
+  margin: 116px 160px 0px 140px;
+}
+
+.bdr-radius{
+  border-radius: 30px;
+}
+
+.txt-color{
+  color: rgba(6, 6, 32, 0.397);
 }
